@@ -1,0 +1,14 @@
+# jetson/ 쪽
+torch
+torchvision
+opencv-python
+numpy
+# YOLOv5 자체는 pip 패키지가 아니라 https://github.com/ultralytics/yolov5 를 별도로 clone해서 사용한다.
+
+# pi/ 쪽
+google-cloud-speech
+sounddevice
+pyaudio
+pvporcupine
+py-espeak-ng
+python-dotenv
