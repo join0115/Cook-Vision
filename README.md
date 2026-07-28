@@ -58,6 +58,9 @@ portfolio/
 3D 프린터로 출력한 안경 프레임 실물입니다. 설계 파일(Fusion 360/STEP/STL)과 렌더 이미지는
 [assets/3d-model/](./assets/3d-model/)에 있습니다.
 
+실제 착용한 모습입니다.
+![실제로 착용한 모습](./assets/photos/Cook_vision.png)
+
 YOLOv5 학습/검증 과정을 보여주는 이미지는 [assets/photos/](./assets/photos/)에 정리했습니다
 (`yolo-train-batch.jpg`, `yolo-val-batch-labels.jpg`).
 
