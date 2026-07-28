@@ -59,6 +59,7 @@ portfolio/
 [assets/3d-model/](./assets/3d-model/)에 있습니다.
 
 실제 착용한 모습입니다.
+
 ![실제로 착용한 모습](./assets/photos/Cook_vision.png)
 
 YOLOv5 학습/검증 과정을 보여주는 이미지는 [assets/photos/](./assets/photos/)에 정리했습니다
